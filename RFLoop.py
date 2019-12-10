@@ -104,7 +104,7 @@ my_csv = pd.read_csv('projected_train.csv')
 vidAll = my_csv['video'].values
 
 #forestSize = [400,500,600,700]
-forestSize = [200,300,400,500,600,700,800]
+forestSize = [200,300,400,500,600,700,800] 
 totalRuns = 10
 
 for size in forestSize:
