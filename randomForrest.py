@@ -65,3 +65,12 @@ print('estimators:', nrestimator)
 #print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))
 #print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))
 print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
+
+# 1st
+# test with different trees
+# calculate PR of each
+# generate graph Precisionx-x Recall-Y
+
+# 2nd
+# Save best Forest
+# Calculate PR
