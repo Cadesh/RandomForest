@@ -1,2 +1,2 @@
-# RandomForrest
-Random Forrest experiments for video categorization
+# RandomForest
+Random Forest experiments for video categorization
