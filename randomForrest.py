@@ -16,7 +16,7 @@ import numpy as np
 # 5. Runs Random Forrest regressor
 # 6. Prints output
 
-nrestimator = 400
+nrestimator = 500
 
 # load array of videos from log
 fileSet =  set(open('science_train.log').read().split())
