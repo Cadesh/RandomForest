@@ -118,6 +118,8 @@ for size in forestSize:
 
   precision = precision / totalRuns
   recall = recall / totalRuns
+  print('precision', precision)
+  print('recall', recall) 
   precisionList.append(precision)
   recallList.append(recall)
   precision = 0
